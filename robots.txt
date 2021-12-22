@@ -1,1 +1,1 @@
-Sitemap: https://1337paladins.github.io/blog/sitemap.xml
+Sitemap: https://blog.sohammukherjee.com/sitemap.xml
