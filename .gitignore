@@ -14,3 +14,6 @@ _notebooks/.ipynb_checkpoints
 __pycache__
 *.DS_Store
 *.lock
+settings.ini
+images/copied_from_nb/my_icons/fastai_logo.png
+_posts/2020-02-20-test.md
